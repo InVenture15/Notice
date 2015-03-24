@@ -8,4 +8,4 @@
 
 ![생성 완료](https://github.com/Leehwajung/InVenture-Personal/blob/master/Create%20repository/3.png)
 * 파일 생성은 +를 눌러서 할 수 있습니다.
-* 업로드는 업로드하는 법을 참고하시기 바랍니다.
+* clone 및 push, pull하는 방법은 GitHub for Windows 사용법.md를 참고하시기 바랍니다.
