@@ -5,5 +5,4 @@
 
 ###2015.03.25
 * 개인용 Repository 생성법.md
-
 * GitHub for Windows 사용법.md: clone, push, pull
