@@ -1,6 +1,7 @@
 보통 명령어 기반의 git을 많이 사용하나, 편의를 위해 GitHub for Windows를 사용합니다.
 각 개인이 편한 대로 선택하여 사용하시면 됩니다.
 여기서는 GitHub for Windows의 기초적인 사용법에 대하여 설명하겠습니다.
+설치 파일 다운로드는 repository 페이지의 우측 하단에서 찾을 수 있습니다.
 
 ### Repository Clone
 
